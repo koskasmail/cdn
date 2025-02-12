@@ -1,6 +1,6 @@
 <a name="topage"></a>
 
-# 001_manuals
+# 01_other_cdn
 
 #### topic #1
 * ...
