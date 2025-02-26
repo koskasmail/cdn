@@ -1,2 +1,2 @@
-# cdn
-temp testing cdn
+# 🔥 cdn
+* ⭐ temp testing cdn
