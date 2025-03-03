@@ -1,9 +1,9 @@
 <a name="topage"></a>
 
-# 02_local_cdn
+# offline
 
-#### topic #1
-* [base](https://koskasmail.github.io/cdn/)
+#### root cdn
+* [root](https://koskasmail.github.io/cdn/)
  
 -----
 
