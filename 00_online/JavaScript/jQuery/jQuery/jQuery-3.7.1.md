@@ -10,6 +10,8 @@
 
 #### jQuery
 * [google-jquery](https://developers.google.com/speed/libraries#jquery)
+* [cdnjs-jquery](https://cdnjs.com/libraries/jquery)
+
 
 -----
 
