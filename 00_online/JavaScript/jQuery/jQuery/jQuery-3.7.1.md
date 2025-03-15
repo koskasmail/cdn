@@ -10,7 +10,9 @@
 
 #### jQuery
 * [google-jquery](https://developers.google.com/speed/libraries#jquery)
+* [microsoft-jquery](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0)
 * [cdnjs-jquery](https://cdnjs.com/libraries/jquery)
+* [jsdelivr-jquery](https://www.jsdelivr.com/package/npm/jquery)
 
 
 -----
