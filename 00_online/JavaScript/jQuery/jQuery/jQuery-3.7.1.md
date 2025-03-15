@@ -8,7 +8,8 @@
 * [jquery-3.7.1.slim.js](https://code.jquery.com/jquery-3.7.1.slim.js)
 * [jquery-3.7.1.slim.min.js](https://code.jquery.com/jquery-3.7.1.slim.min.js)
 
-
+#### jQuery
+* [google-jquery](https://developers.google.com/speed/libraries#jquery)
 
 -----
 
