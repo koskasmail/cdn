@@ -11,6 +11,7 @@
 #### jQuery
 * [jquery-home_page](https://jquery.com/)
 * [releases.jquery](https://releases.jquery.com/)
+* [api.jquery](https://api.jquery.com/)
 * [jquery-3.7.1.js](https://code.jquery.com/jquery-3.7.1.js)
 * [jquery-3.7.1.min.js](https://code.jquery.com/jquery-3.7.1.min.js)
 * [jquery-3.7.1.slim.js](https://code.jquery.com/jquery-3.7.1.slim.js)
@@ -56,6 +57,21 @@
 * [jquery.mobile-1.4.5.min.js](https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js)
 * [jquery.mobile-1.4.5.min.css](https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css)
 
+#### jQuery - color
+* [jquery.color-3.0.0.js](https://code.jquery.com/color/jquery.color-3.0.0.js)
+* [jquery.color-3.0.0.min.js](https://code.jquery.com/color/jquery.color-3.0.0.min.js)
+* [jquery.color.svg-names-3.0.0.js](https://code.jquery.com/color/jquery.color.svg-names-3.0.0.js)
+* [jquery.color.svg-names-3.0.0.min.js](https://code.jquery.com/color/jquery.color.svg-names-3.0.0.min.js)
+* [jquery.color.plus-names-3.0.0.js](https://code.jquery.com/color/jquery.color.plus-names-3.0.0.js)
+* [jquery.color.plus-names-3.0.0.min.js](https://code.jquery.com/color/jquery.color.plus-names-3.0.0.min.js)
+
+#### jQuery - qunit
+* [qunit-2.24.1.js](https://code.jquery.com/qunit/qunit-2.24.1.js)
+* [qunit-2.24.1.css](https://code.jquery.com/qunit/qunit-2.24.1.css)
+
+#### jQuery - PEP
+* [pep.js](https://code.jquery.com/pep/0.4.3/pep.js)
+* [pep.min.js](https://code.jquery.com/pep/0.4.3/pep.min.js)
 
 
 #### todo 
