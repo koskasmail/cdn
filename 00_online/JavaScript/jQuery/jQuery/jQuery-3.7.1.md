@@ -2,6 +2,7 @@
 
 #### jQuery
 * [jquery-home_page](https://jquery.com/)
+* [jquery-download](https://jquery.com/download/)
 * [jquery-3.7.1.js](https://code.jquery.com/jquery-3.7.1.js)
 * [jquery-3.7.1.min.js](https://code.jquery.com/jquery-3.7.1.min.js)
 * [jquery-3.7.1.slim.js](https://code.jquery.com/jquery-3.7.1.slim.js)
