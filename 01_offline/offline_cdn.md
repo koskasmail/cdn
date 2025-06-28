@@ -10,7 +10,7 @@
 * [webamp](https://koskasmail.github.io/cdn/01_offline/audio/webamp/webamp.bundle.min.js)
 
 #### dojo toolkit
-* [dojo toolkit](https://koskasmail.github.io/cdn/01_offline/dojo/dojo.md) 
+* [dojo | 1.17.3](https://github.com/koskasmail/cdn/blob/main/01_offline/dojo/dojo.md)
 
 
 -----
