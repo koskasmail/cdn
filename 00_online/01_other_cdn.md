@@ -73,6 +73,9 @@
 * [pep.js](https://code.jquery.com/pep/0.4.3/pep.js)
 * [pep.min.js](https://code.jquery.com/pep/0.4.3/pep.min.js)
 
+#### Document type read
+* [mammoth](https://unpkg.com/mammoth/mammoth.browser.min.js)
+    * [github | mammoth](https://github.com/mwilliamson/mammoth.js)
 
 #### todo 
 * font
